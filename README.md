@@ -1,3 +1,8 @@
+
+> [!WARNING]  
+> THIS IS NOT THE MAIN REPO. ITS THE API ONLY.
+> THIS REPO IS OUTDATED. NEW API IS IN THE "app" REPO
+
 <div align="center">
 
 <img width="5088" height="2196" alt="image (7)" src="https://github.com/user-attachments/assets/180b8c70-71bb-4206-8b13-c97839bc671a" />
